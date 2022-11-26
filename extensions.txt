@@ -1,0 +1,9 @@
+
+.php
+.asp
+.html
+.jsp
+.sql
+.bak
+.zip
+.log
